@@ -139,19 +139,6 @@ http://localhost:8000/usuarios
 
 ---
 
-## 📁 ESTRUTURA DE DIRETÓRIOS
-
-```
-resources/views/
-├── layout.blade.php
-└── usuarios/
-    ├── index.blade.php
-    ├── create.blade.php
-    └── edit.blade.php
-```
-
----
-
 ## 👨‍🎓 DADOS DO ALUNO
 
 - **Nome:** Luiz Felipe Da Silva Santos 
