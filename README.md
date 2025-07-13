@@ -159,8 +159,5 @@ resources/views/
 - **Curso:** Análise e desenvolvimento de sistemas
 - **Disciplina:** Programação WEB II  
 - **Ano/Semestre:** 2025/2  
-<<<<<<< HEAD
 - **Instituição:** Unitins
-=======
-- **Instituição:** Unitins
->>>>>>> 63e393d4a6d2dac637cbbf71b77b469edef0ab9d
+
