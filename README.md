@@ -77,7 +77,7 @@ Execute as migrations:
 ```bash
 php artisan migrate
 ```
-
+Se não tiver criado o banco anteriormente, se utilizar o terminal do laragon ele irá perguntar se deseja criar quando executar as migrations
 ---
 
 ### 🖥️ 5. INICIAR O SERVIDOR
