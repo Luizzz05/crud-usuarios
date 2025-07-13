@@ -8,11 +8,11 @@ return new class extends Migration {
     public function up()
     {
         Schema::create('usuarios', function (Blueprint $table) {
-            $table->id();
-            $table->string('nome');
-            $table->string('email')->unique();
-            $table->string('senha');
-            $table->timestamps();
+            $table->id(); // Chave primária auto-incremento
+            $table->string('nome'); // Nome do usuário
+            $table->string('email')->unique(); // Email único
+            $table->string('senha'); // Senha criptografada
+            $table->timestamps(); // created_at e updated_at
         });
     }
 
