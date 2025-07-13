@@ -66,7 +66,7 @@ DB_USERNAME=root
 DB_PASSWORD=
 ```
 
-> ⚠️ Crie o banco `crud_db` no MySQL **antes de prosseguir** (Utilizei o Laragon).
+> ⚠️ Crie o banco `crud_db` no MySQL **antes de prosseguir**.
 
 ---
 
@@ -77,9 +77,8 @@ Execute as migrations:
 ```bash
 php artisan migrate
 ```
-
 ---
-
+Se não tiver criado o banco anteriormente, se utilizar o terminal do laragon ele irá perguntar se deseja criar quando executar as migrations
 ### 🖥️ 5. INICIAR O SERVIDOR
 
 Rode o projeto:
